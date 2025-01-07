@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nabeel!
-- 👀 Passionate about Computational Biology and Molecular Biology
+- 👀 Passionate about Computational and Molecular Biology
 - 🌱 Currently exploring the world of Mobile App Development 
 - 📫 Connect with me on Instagram: @amjad.mnabeel
 - 😄 Pronouns: He/Him
