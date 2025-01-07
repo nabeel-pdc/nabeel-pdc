@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @nabeel
-- 👀 I’m interested in Computational and Molecular Biology
-- 🌱 I’m currently learning Mobile App Development 
-- 📫 How to reach me on Instagram @amjad.mnabeel
+- 👋 Hi, I’m Nabeel!
+- 👀 Passionate about Computational Biology and Molecular Biology
+- 🌱 Currently exploring the world of Mobile App Development 
+- 📫 Connect with me on Instagram: @amjad.mnabeel
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a multidisciplinary man struggling for career success. 
+- ⚡ Fun fact: From viruses to mobile apps, I’m constantly learning and innovating! 
 
 <!---
 nabeel-pdc/nabeel-pdc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
